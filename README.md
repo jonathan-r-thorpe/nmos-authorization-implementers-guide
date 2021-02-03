@@ -1,4 +1,4 @@
-# \[Work In Progress\] AMWA NMOS Template Specification
+# AMWA INFO-XXX: NMOS Authorization Implementation Guide \[Work In Progress\] 
 
 [![Lint Status](https://github.com/AMWA-TV/nmos-template/workflows/Lint/badge.svg)](https://github.com/AMWA-TV/nmos-template/actions?query=workflow%3ALint)
 [![Render Status](https://github.com/AMWA-TV/nmos-template/workflows/Render/badge.svg)](https://github.com/AMWA-TV/nmos-template/actions?query=workflow%3ARender)
@@ -26,3 +26,6 @@ This repository holds the source for this Specification, part of the family of [
 ## Getting started
 
 There is more information about the NMOS Specifications and their GitHub repos at <https://specs.amwa.tv/nmos>.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzODgxOTQzMjVdfQ==
+-->
