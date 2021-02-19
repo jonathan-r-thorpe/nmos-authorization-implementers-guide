@@ -5,7 +5,7 @@
 
 This repository holds the source for this Specification, part of the family of [Networked Media Open Specifications](https://specs.amwa.tv/nmos) from the [Advanced Media Workflow Association](https://amwa.tv)
 
-[//]: # "INTRO-START"
+<!-- INTRO-START -->
 
 ### What does it do?
 
@@ -21,11 +21,12 @@ This repository holds the source for this Specification, part of the family of [
 - It contains examples of documentation, API, schemas, and examples.
 - These are rendered to HTML and uploaded to specs.amwa.tv
 
-[//]: # "INTRO-END"
+<!-- INTRO-END -->
 
 ## Getting started
 
 There is more information about the NMOS Specifications and their GitHub repos at <https://specs.amwa.tv/nmos>.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODgxOTQzMjVdfQ==
+eyJoaXN0b3J5IjpbLTE0Njk1NzcyNjUsLTE3NTA0NTMxMzUsLT
+EzODgxOTQzMjVdfQ==
 -->
