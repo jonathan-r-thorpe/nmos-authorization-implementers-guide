@@ -3,6 +3,6 @@
     "mode": "activate_immediate"
   },
   "action" : {
-    "_comment_": "action data here"
+    "...": "action data here"
   }
 }
