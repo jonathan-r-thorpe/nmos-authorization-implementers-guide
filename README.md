@@ -17,8 +17,8 @@ This repository holds the source for this Specification, part of the family of [
 
 ### How does it work?
 
-- It details what you need to know before you start, and the steps you things you need to implement whether you are an NMOS Node implemenneedcontains examples of documentation, API, schemas, and examples.
-- These are rendered to HTML and uploaded to specs.amwa.tv
+- It details what you need to know, and the steps you need to take when implementing security.
+- It includes some recommended tools to help in your implementation
 
 <!-- INTRO-END -->
 
@@ -26,6 +26,6 @@ This repository holds the source for this Specification, part of the family of [
 
 There is more information about the NMOS Specifications and their GitHub repos at <https://specs.amwa.tv/nmos>.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3OTg4OTA3MSwtMTQ2OTU3NzI2NSwtMT
-c1MDQ1MzEzNSwtMTM4ODE5NDMyNV19
+eyJoaXN0b3J5IjpbMTU4MzU3NTIyLC0xNDY5NTc3MjY1LC0xNz
+UwNDUzMTM1LC0xMzg4MTk0MzI1XX0=
 -->
