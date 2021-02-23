@@ -13,12 +13,11 @@ This repository holds the source for this Specification, part of the family of [
 
 ### Why does it matter?
 
-- This implementation guide should make the job of adding NMOS Security It aims to provide easy to follow guidance  impleease thelps ensure consistency between NMOS Specifications.
-- It helps us test our continuous integration.
+- This implementation guide should make the job of adding NMOS Security to your implementations easier.
 
 ### How does it work?
 
-- It contains examples of documentation, API, schemas, and examples.
+- It details what you need to know before you start, and the steps you things you need to implement whether you are an NMOS Node implemenneedcontains examples of documentation, API, schemas, and examples.
 - These are rendered to HTML and uploaded to specs.amwa.tv
 
 <!-- INTRO-END -->
@@ -27,6 +26,6 @@ This repository holds the source for this Specification, part of the family of [
 
 There is more information about the NMOS Specifications and their GitHub repos at <https://specs.amwa.tv/nmos>.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMDkwMzczLC0xNDY5NTc3MjY1LC0xNz
-UwNDUzMTM1LC0xMzg4MTk0MzI1XX0=
+eyJoaXN0b3J5IjpbLTk3OTg4OTA3MSwtMTQ2OTU3NzI2NSwtMT
+c1MDQ1MzEzNSwtMTM4ODE5NDMyNV19
 -->
