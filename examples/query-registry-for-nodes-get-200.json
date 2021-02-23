@@ -10,28 +10,28 @@
         }
       ],
       "versions": [
-        ...
+        "..."
       ]
     },
     "caps": {
-      ...
+      "...": "caps data here"
     },
     "clocks": [
-      ...
+      "..."
     ],
     "description": "...",
     "hostname": "node.example.com",
     "href": "https://node.example.com/",
     "id": "...",
     "interfaces": [
-      ...
+      "..."
     ],
     "label": "My Example Node",
     "services": [
-      ...
+      "..."
     ],
     "tags": {
-      ...
+      "...": "tags data here"
     },
     "version": "..."
   }
