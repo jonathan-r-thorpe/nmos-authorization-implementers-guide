@@ -9,11 +9,11 @@ This repository holds the source for this Specification, part of the family of [
 
 ### What does it do?
 
-- It's a guide for implementers who want to add NMOS Security to their   provides a template for AMWA NMOS Interface Specifcations.
+- It's a guide for implementers who want to add NMOS Security to their NMOS Nodes and NMOS Controllers.
 
 ### Why does it matter?
 
-- It helps ensure consistency between NMOS Specifications.
+- This implementation guide should make the job of adding NMOS Security It aims to provide easy to follow guidance  impleease thelps ensure consistency between NMOS Specifications.
 - It helps us test our continuous integration.
 
 ### How does it work?
@@ -27,6 +27,6 @@ This repository holds the source for this Specification, part of the family of [
 
 There is more information about the NMOS Specifications and their GitHub repos at <https://specs.amwa.tv/nmos>.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MzU0MTkzNCwtMTQ2OTU3NzI2NSwtMT
-c1MDQ1MzEzNSwtMTM4ODE5NDMyNV19
+eyJoaXN0b3J5IjpbLTIzMDkwMzczLC0xNDY5NTc3MjY1LC0xNz
+UwNDUzMTM1LC0xMzg4MTk0MzI1XX0=
 -->
